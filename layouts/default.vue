@@ -2,6 +2,7 @@
   <div>
     <navbar></navbar>
     <nuxt/>
+    <footer></footer>
   </div>
 </template>
 
@@ -16,7 +17,7 @@
 </script>
 
 <style>
-  html {
-    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  * {
+    font-family: 'Inconsolata', monospace;
   }
 </style>
