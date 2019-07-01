@@ -7,13 +7,13 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by3">
-              <img src="~assets/Sketch.png" alt="Placeholder image">
+              <img src="~assets/Sketch.png">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Hola, me llamo Felipe Alvarado Solano.</p>
+                <p class="title is-4">Hola, me llamo José Felipe Alvarado Solano.</p>
                 <p class="subtitle is-6">Soy un programador de Costa Rica.</p>
               </div>
             </div>
