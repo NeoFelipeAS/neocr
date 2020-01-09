@@ -1,0 +1,13 @@
+.color1 {
+  background-color: #a44d4d;
+}
+
+.btn-azul {
+  background: #070762;
+  color: white;
+}
+
+.btn-azul:hover {
+  background: white;
+  color: #070762;
+}
